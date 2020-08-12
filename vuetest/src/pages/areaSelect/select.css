@@ -1,0 +1,27 @@
+.address_select {
+  width: 500px;
+  margin: 0 auto;
+}
+.address_select .select_div {
+  width: 32%;
+  float: left;
+  margin: 10px 0;
+}
+.address_select .select_div:nth-child(2) {
+  margin: 10px 2%;
+}
+.address_select select {
+  height: 32px;
+  width: 100%;
+  margin: 0;
+  display: inline-block;
+  text-align: center;
+}
+.address_select input {
+  box-sizing: border-box;
+  display: inline-block;
+  height: 32px;
+  width: 100%;
+  margin: 10px 0;
+  text-align: center;
+}
